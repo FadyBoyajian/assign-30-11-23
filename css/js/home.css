@@ -1,0 +1,82 @@
+body{
+    margin-top: 0px;
+}
+.title{
+    background-color: rgb(5, 201, 136);
+    color: whitesmoke;
+    vertical-align: middle;
+    font-size:large;
+    padding-top: 0.5px;
+    padding-bottom: 0.5px;
+    margin-bottom: 10px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    }
+.img2{
+    display: inline-block;
+    border-style: solid;
+    border-color: rgb(5, 201, 136);
+}
+
+.img3{
+    display: inline-block;
+    border-style: solid;
+    border-color: rgb(5, 201, 136);
+}
+
+.img4{
+    display: inline-block;
+    border-style: solid;
+    border-color: rgb(5, 201, 136);
+}
+.img1{
+    display: inline-block;
+    border-style: solid;
+    border-color: rgb(5, 201, 136);
+}
+
+
+.city1{text-align: center;
+    display: inline-flex;
+    padding-left: 20%;
+}
+
+.city2{text-align: center;
+    display: inline-flex;
+    padding-left: 20%;
+}
+
+.city3{text-align: center;
+    display: inline-flex;
+    padding-left: 20%;
+}
+
+.city4{text-align: center;
+    display: inline-flex;
+    padding-left: 20%;}
+
+
+.data1{display: inline;
+padding-top: 75px;
+padding-left: 10px;
+text-align: left;
+}
+
+.data2{display: inline;
+    padding-top: 75px;
+    padding-left: 10px;
+    text-align: left;
+    }
+    
+.data3{display: inline;
+        padding-top: 75px;
+        padding-left: 10px;
+        text-align: left;
+        }
+
+.data4{display: inline;
+            padding-top: 75px;
+            padding-left: 10px;
+            text-align: left;
+            }
+
+

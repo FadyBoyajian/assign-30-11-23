@@ -1,0 +1,30 @@
+.card-img{
+    image-resolution: 500px ;
+}
+.mon{
+    padding: 20px;
+    width: 100px;
+}
+.img{
+    display: inline;
+    /*position: relative;*/
+    text-align: center;
+}
+
+.img-data{
+    position: absolute;
+    bottom: 300px;
+    left: 20px;
+    color: aliceblue;
+    font-size: large;
+}
+.tbl{width: 13.2cm;
+    height: 3cm;
+    text-align: center;
+    text-decoration:wavy;
+}
+.card{
+    display: inline-block;
+    border-style:ridge;
+   text-decoration: wavy;
+}
